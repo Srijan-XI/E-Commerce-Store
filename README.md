@@ -85,4 +85,4 @@ _Add screenshots of homepage, product listing, and cart here once ready._
 ---
 
 ## 🙌 Contributors
-This project was created by a **team of 7 beginner developers** as a learning project.  
+This project was created by a **team of 7 beginner developers** as a learning project.
